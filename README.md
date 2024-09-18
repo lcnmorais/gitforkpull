@@ -11,3 +11,6 @@ DEPOIS DE RESOLVER CONFLITO
 
 GIT-FLOW: FEATURE F001 - Adição de comentário
 
+GIT-FLOW: RELEASE - Adicionado commentário
+
+
